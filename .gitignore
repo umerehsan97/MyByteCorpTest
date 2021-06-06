@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/.idea/shelf/Uncommitted_changes_before_Update_at_6_3_2021_5_59_PM_[Default_Changelist]/shelved.patch
+/.idea/shelf/Uncommitted_changes_before_Update_at_6_3_2021_5_59_PM_[Default_Changelist]/shelved.patch

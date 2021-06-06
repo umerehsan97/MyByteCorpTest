@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android projects/BAMobileApps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android projects/alfaaar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android projects/sambaandroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android projects/sensodyne-interception-app" vcs="Git" />
+  </component>
+</project>
